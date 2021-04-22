@@ -20,10 +20,12 @@ A curated list of papers and resources linked to **action anticipation** and **e
   - [Action Anticipation Competitions](#action-anticipation-competitions)
 - [Contributing](#contributing)
 
+
 # Papers
 ## Action Anticipation Papers
 
 - **2021**
+  - [Learning to Anticipate Egocentric Actions by Imagination](https://arxiv.org/pdf/2101.04924v2.pdf) - *Y. Wu et al.* - **TIP, 2021**.
 
 - **2020**
   - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://arxiv.org/abs/1911.10967) - *M. Liu et al.* - **ECCV, 2020**.
@@ -44,13 +46,6 @@ A curated list of papers and resources linked to **action anticipation** and **e
   - [Encouraging LSTMs to Anticipate Actions Very Early](https://basurafernando.github.io/papers/ICCV17.pdf) - *M. S. Aliakbarian et al.* - **ICCV, 2017**.
 
 
-
-
-
-
-
-
-
 ## Early Action Recognition Papers
 
 - **2020**
@@ -58,7 +53,6 @@ A curated list of papers and resources linked to **action anticipation** and **e
 
 - **2019**
   - [What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention](https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf) - *A. Furnari and G. M. Farinella* - **ICCV, 2019**.
-
 
  
 # Datasets
