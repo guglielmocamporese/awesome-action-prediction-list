@@ -11,4 +11,4 @@ The pull request should have a useful title. Please carefully read everything in
 - **Sorting rule:** Put the paper in the correct year bucket and insert the paper maintaining the alphabetical order of the paper titles.
 - **Reference format:** [{Paper title}](paper link) - *{Author list}* - **{conference/journal name}, {year}**.
   - "{Author list}" -> should be in italic.
-  - "{conference/journal name}, {year}" -> sould be in bold.
+  - "{conference/journal name}, {year}" -> should be in bold.
