@@ -5,9 +5,9 @@ A curated list of papers and resources linked to **action anticipation** and **e
 **Note that:**
 
 -   **This list is not exhaustive.**
--   **Tables use alphabetical order for fairness.**
+-   **The lists use alphabetical order for fairness.**
 
-Last update: 22/04/2020
+*Last update: 22/04/2021*
 
 # Contents
 - [Papers](#papers)
@@ -18,7 +18,6 @@ Last update: 22/04/2020
   - [Early Action Recognition Datasets](#early-action-recognition-datasets)
 - [Competitions](#competitions)
   - [Action Anticipation Competitions](#action-anticipation-competitions)
-  - [Early Action Recognition Competitions](#early-action-recognition-competitions)
 - [Contributing](#contributing)
 
 # Papers
@@ -64,13 +63,31 @@ Last update: 22/04/2020
  
 # Datasets
 ## Action Anticipation Datasets
+- **2020**
+  - EPIC-Kitchens-100 - [[website](https://epic-kitchens.github.io/2021)][[paper](https://arxiv.org/abs/2006.13256)]
+
+- **2018**
+  - EPIC-Kitchens-55 - [[website](https://epic-kitchens.github.io/2020-55.html)][[paper]()]
+
+- **2017**
+  - EGTEA Gaze+ - [[website](http://cbs.ic.gatech.edu/fpv/)]
 
 ## Early Action Recognition Datasets
+
+- **2020**
+  - EPIC-Kitchens-100 - [[website](https://epic-kitchens.github.io/2021)][[paper](https://arxiv.org/abs/2006.13256)]
+
+- **2018**
+  - EPIC-Kitchens-55 - [[website](https://epic-kitchens.github.io/2020-55.html)][[paper]()]
+
+- **2017**
+  - EGTEA Gaze+ - [[website](http://cbs.ic.gatech.edu/fpv/)]
 
 # Competitions
 ## Action Anticipation Competitions
 
-## Early Action Recognition Competitions
+- EPIC-Kitchens-100 - [[website](https://competitions.codalab.org/competitions/25925)]
+- EPIC-Kitchens-55 - [[website](https://competitions.codalab.org/competitions/20071)]
 
 # Contributions
 Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request.
