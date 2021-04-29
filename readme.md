@@ -1,4 +1,4 @@
-# Awesome Early Action Anticipation List
+# Awesome Action Prediction List
 
 A curated list of papers and resources linked to **action anticipation** and **early action recognition** from videos.
 
