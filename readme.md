@@ -4,6 +4,8 @@
 
 A curated list of papers and resources linked to **action anticipation** and **early action recognition** from videos.
 
+If you find this list useful, please consider to give a star ⭐!
+
 **Note that:**
 
 -   **This list is not exhaustive.**
