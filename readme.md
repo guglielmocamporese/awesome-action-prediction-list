@@ -1,5 +1,7 @@
 # Awesome Action Prediction List
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of papers and resources linked to **action anticipation** and **early action recognition** from videos.
 
 **Note that:**
