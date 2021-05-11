@@ -2,28 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of papers and resources linked to **action anticipation** and **early action recognition** from videos.
+A curated list of papers and resources linked to **Action Anticipation** and **Early Action Recognition** from videos.
 
-If you find this list useful, please consider to give a star ⭐!
-
-**Note that:**
-
--   **This list is not exhaustive.**
--   **The lists use alphabetical order for fairness.**
-
-*Last update: 22/04/2021*
-
-# Contents
-- [Papers](#papers)
-	- [Action Anticipation Papers](#action-anticipation-papers)
-	- [Early Action Recognition Papers](#early-action-recognition-papers)
-- [Datasets](#datasets)
-  - [Action Anticipation Datasets](#action-anticipation-datasets)
-  - [Early Action Recognition Datasets](#early-action-recognition-datasets)
-- [Competitions](#competitions)
-  - [Action Anticipation Competitions](#action-anticipation-competitions)
-- [Contributing](#contributing)
-
+ ```
+ If you find this list useful, please consider to give a star ⭐ !
+ ```
 
 # Papers
 
@@ -120,3 +103,8 @@ If you find this list useful, please consider to give a star ⭐!
 
 # Contributing
 Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request.
+
+**Note that:**
+
+-   **This list is not exhaustive.**
+-   **The lists use alphabetical order for fairness.**
