@@ -26,7 +26,11 @@ If you find this list useful, please consider to give a star ⭐!
 
 
 # Papers
+
 ## Action Anticipation Papers
+
+<details>
+	<summary> Action Anticipation Papers</summary>
 
 - **2021**
   - [Learning to Anticipate Egocentric Actions by Imagination](https://arxiv.org/pdf/2101.04924v2.pdf) - *Y. Wu et al.* - **TIP, 2021**.
@@ -49,18 +53,31 @@ If you find this list useful, please consider to give a star ⭐!
 - **2017**
   - [Encouraging LSTMs to Anticipate Actions Very Early](https://basurafernando.github.io/papers/ICCV17.pdf) - *M. S. Aliakbarian et al.* - **ICCV, 2017**.
 
+</details>
 
 ## Early Action Recognition Papers
 
+<details>
+	<summary>  Early Action Recognition Papers</summary>
+	
 - **2020**
   - [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://arxiv.org/pdf/2005.02190v2.pdf) - *A. Furnari and G. M. Farinella* - **PAMI, 2020**.
 
 - **2019**
   - [What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention](https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf) - *A. Furnari and G. M. Farinella* - **ICCV, 2019**.
 
+</details>
+
  
 # Datasets
+
+	
 ## Action Anticipation Datasets
+
+
+<details>
+	<summary>Action Anticipation Datasets</summary>
+	
 - **2020**
   - EPIC-Kitchens-100 - [[website](https://epic-kitchens.github.io/2021)][[paper](https://arxiv.org/abs/2006.13256)]
 
@@ -69,9 +86,15 @@ If you find this list useful, please consider to give a star ⭐!
 
 - **2017**
   - EGTEA Gaze+ - [[website](http://cbs.ic.gatech.edu/fpv/)]
+
+</details>
+
 
 ## Early Action Recognition Datasets
 
+<details>
+	<summary>Early Action Recognition Datasets</summary>
+
 - **2020**
   - EPIC-Kitchens-100 - [[website](https://epic-kitchens.github.io/2021)][[paper](https://arxiv.org/abs/2006.13256)]
 
@@ -81,11 +104,19 @@ If you find this list useful, please consider to give a star ⭐!
 - **2017**
   - EGTEA Gaze+ - [[website](http://cbs.ic.gatech.edu/fpv/)]
 
+</details>
+	
 # Competitions
+
+<details>
+	<summary>Competitions</summary>
+	
 ## Action Anticipation Competitions
 
 - EPIC-Kitchens-100 - [[website](https://competitions.codalab.org/competitions/25925)]
 - EPIC-Kitchens-55 - [[website](https://competitions.codalab.org/competitions/20071)]
 
-# Contributions
+</details>
+
+# Contributing
 Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request.
