@@ -17,6 +17,7 @@ A curated list of papers and resources linked to **Action Anticipation** and **E
 
 #### **2021**
 - [Learning to Anticipate Egocentric Actions by Imagination](https://arxiv.org/pdf/2101.04924v2.pdf) - *Y. Wu et al.* - **TIP, 2021**.
+- [Anticipative Video Transformer](https://arxiv.org/pdf/2106.02036.pdf) - *Girdhar et al.* - **arXiv, 2021**.
 
 #### **2020**
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://arxiv.org/abs/1911.10967) - *M. Liu et al.* - **ECCV, 2020**.
